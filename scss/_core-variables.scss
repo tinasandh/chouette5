@@ -1,0 +1,20 @@
+.app-body {
+    .main {
+        padding: 20px 0;
+
+        .app-title {
+            padding: 0 30px 10px;
+            border-bottom: 1px solid $gray-200;
+            margin-bottom: 20px;
+
+            p {
+                font-style: italic;
+                font-size: 13px;
+            }
+
+            i {
+                margin-right: 5px;
+            }
+        }
+    }
+}
